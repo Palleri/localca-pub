@@ -1,5 +1,5 @@
 
-<img alt="logo" src="https://i.imgur.com/Z52sFt5.png">
+<img alt="logo" src="https://i.imgur.com/wQv0uOx.png">
 
 -----------------------------------------------------------------------
 # ONLY FOR INTERNAL ACCESS

@@ -7,7 +7,7 @@
 
 <b>DO NOT USE FOR PRODUCTION.</b>
 
-<b>NOT CHECKED FOR BUGS OR VULNERABILITYS.</b>
+<b>NOT CHECKED FOR BUGS OR VULNERABILITIES.</b>
 
 -----------------------------------------------------------------------
 
